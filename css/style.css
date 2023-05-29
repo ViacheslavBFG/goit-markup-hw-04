@@ -211,7 +211,7 @@ img {
 
     background: var(--button-bg-color);
     padding: 120px 0;
-    
+
 }
 
 
@@ -521,4 +521,14 @@ ol {
 
 .team-svg-icon {
     fill: var(--button-bg-color);
+}
+
+
+
+/* Секция №5 */
+
+
+.cust {
+    padding: 120px 0;
+
 }
