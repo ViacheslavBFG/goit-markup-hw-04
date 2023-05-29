@@ -533,3 +533,8 @@ ol {
 
 }
 
+.customers-list{
+    display: flex;
+    gap:24px;
+    
+}
