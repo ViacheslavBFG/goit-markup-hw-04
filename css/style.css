@@ -490,3 +490,15 @@ ol {
     border-radius: 4px;
     margin-bottom: 8px;
 }
+
+.team-list-icon {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+}
+
+.team-item-icon {
+
+    width: 40px;
+    height: 40px;
+}
