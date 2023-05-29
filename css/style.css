@@ -533,8 +533,14 @@ ol {
 
 }
 
-.customers-list{
+.customers-list {
     display: flex;
-    gap:24px;
-    
+    gap: 24px;
+
+}
+
+.customers-item {
+
+    width: calc((100% - 120px) / 6);
+    height: 88px;
 }
