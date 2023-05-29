@@ -512,3 +512,8 @@ ol {
     align-items: center;
     justify-content: center;
 }
+
+.team-link-icon:hover,
+.team-link-icon:focus{
+    color:var(--header-link-hf);
+}
