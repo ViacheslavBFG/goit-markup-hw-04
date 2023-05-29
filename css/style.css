@@ -474,3 +474,17 @@ ol {
     visibility: hidden;
 
 }
+
+
+/* SVG section 2 */
+
+.img-section2-svg {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 112px;
+    background-color: #f4f4fd;
+    border-radius: 4px;
+    margin-bottom: 8px;
+}
