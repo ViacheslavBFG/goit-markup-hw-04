@@ -517,3 +517,7 @@ ol {
 .team-link-icon:focus {
     background-color: var(--header-link-hf);
 }
+
+.team-svg-icon {
+    fill: var(--button-bg-color);
+}
