@@ -576,3 +576,7 @@ ol {
     padding: 16px 32px;
     fill: currentColor;
 }
+
+.Social-media-footer {
+    display: flex;
+}
