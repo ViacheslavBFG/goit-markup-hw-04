@@ -557,8 +557,19 @@ ol {
     display: flex;
     align-items: center;
     justify-content: center;
+    color: var(--customers-link-color);
 
 }
+
+
+.customers-link:hover,
+.customers-link:focus {
+    border-color: var(--header-link-hf);
+    color: #404bbf;
+
+}
+
+
 
 
 .customers-svg {
