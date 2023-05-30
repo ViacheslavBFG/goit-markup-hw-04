@@ -565,7 +565,7 @@ ol {
 .customers-link:hover,
 .customers-link:focus {
     border-color: var(--header-link-hf);
-    color: #404bbf;
+    color: var(--header-link-hf);
 
 }
 
