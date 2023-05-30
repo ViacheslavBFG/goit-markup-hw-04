@@ -581,6 +581,7 @@ ol {
 .wtf-footer {
     display: flex;
     align-items: baseline;
+    margin-right: 120px;
 }
 
 
@@ -591,6 +592,7 @@ ol {
     letter-spacing: 0.02em;
     color: var(--header-background);
     margin-bottom: 16px;
+    max-width: 264px;
 }
 
 
