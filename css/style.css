@@ -580,5 +580,9 @@ ol {
 .wtf-footer {
     display: flex;
     align-items: baseline;
+}
+
+.footer-span-and {
+
     margin-right: 120px;
 }
