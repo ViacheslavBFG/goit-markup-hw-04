@@ -16,6 +16,7 @@ img {
     --headre-adress-link: #434455;
     --header-logo-main: #4D5AE5;
     --border-portfolio: #e7e9fc;
+    --customers-link-color: #8e8f99;
 }
 
 
@@ -556,5 +557,12 @@ ol {
     display: flex;
     align-items: center;
     justify-content: center;
-    
+
+}
+
+
+.customers-svg {
+    padding: 16px 32px;
+
+
 }
