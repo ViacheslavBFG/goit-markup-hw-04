@@ -17,6 +17,7 @@ img {
     --header-logo-main: #4D5AE5;
     --border-portfolio: #e7e9fc;
     --customers-link-color: #8e8f99;
+    --Color-link1: #31d0aa;
 }
 
 
@@ -590,4 +591,45 @@ ol {
     letter-spacing: 0.02em;
     color: var(--header-background);
     margin-bottom: 16px;
+}
+
+
+.social-media-list {
+    display: flex;
+    gap: 16px;
+}
+
+
+.social-media-item {
+
+    width: 40px;
+    height: 40px;
+
+
+}
+
+
+.social-media-link {
+
+    width: 100%;
+    height: 100%;
+    background-color: var(--header-logo-main);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.social-media-link:hover,
+.social-media-link:focus {
+    background-color: var(--Color-link1);
+
+
+}
+
+
+.social-media-svg {
+
+    fill: var(--button-bg-color);
+
 }
